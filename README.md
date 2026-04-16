@@ -25,12 +25,13 @@
 
 ### Recent Projects
 
- 🧭 Bússola de Crédito
+#### 🧭 Bússola de Crédito 
 
  [💻 Repository](https://github.com/SiDianaGit/dio-lab-bia)
+ 
  [🤖 App](https://dio-lab-bia-fefopyazarlmfz3u4abjyv.streamlit.app/)
 
-### Used Technologies
+### Some Used Technologies
 
 ![Top_Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SiDianaGit&layout=compact)
 
