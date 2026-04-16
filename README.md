@@ -25,7 +25,10 @@
 
 ### Recent Projects
 
-Bússola de Crédito
+ 🧭 Bússola de Crédito
+
+ [💻 Repository](https://github.com/SiDianaGit/dio-lab-bia)
+ [🤖 App](https://dio-lab-bia-fefopyazarlmfz3u4abjyv.streamlit.app/)
 
 ### Used Technologies
 
@@ -42,8 +45,6 @@ Bússola de Crédito
 
 ![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-
-
 
 
 
